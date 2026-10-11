@@ -29,12 +29,16 @@ API 키와 서비스 계정 키는 환경 변수로만 관리하고 저장소에
 - 한 달 넘게 멈춰 있는 프로젝트는?
 
 ## 2. 배포 URL
-<!-- 5단계에서 작성 -->
+
 | 구분 | URL |
 |---|---|
-| 프론트엔드 (Vercel) | |
-| 백엔드 API (Render) | |
-| Swagger UI | |
+| 프론트엔드 (Vercel) | https://adhd-biseo-frontend.vercel.app |
+| 백엔드 API (Render) | https://adhd-biseo-api.onrender.com |
+| Swagger UI | https://adhd-biseo-api.onrender.com/docs |
+| 헬스체크 | https://adhd-biseo-api.onrender.com/health |
+
+> ⏳ **처음 접속이 느린 이유** — Render 무료 서버는 15분 동안 요청이 없으면 잠들고, 다시 깨어나는 데 **최대 1분**이 걸린다.
+> 화면은 열리자마자 `/health`로 서버를 깨우고, 늦어지면 상단에 *"무료 서버를 깨우는 중이에요 · N초"* 안내를 띄운다. 연결되면 오른쪽 위가 **● 연결됨**으로 바뀐다.
 
 ## 3. 기술 스택
 
@@ -67,6 +71,7 @@ AXOLVE_AI_BISEO/
 │  │  └─ services/           실제 처리: records · summary · conversations · ai
 │  ├─ scripts/seed.py        data/ 파일을 Firestore에 넣기
 │  └─ tests/test_api.py      API 테스트 12개
+├─ render.yaml               Render 배포 설정 (Blueprint)
 ├─ frontend/
 │  ├─ index.html             3단 화면: 대화 기록 · 채팅 · 할 일/요약/데이터 (모바일은 탭)
 │  ├─ styles.css             라이트·다크 테마
@@ -74,7 +79,7 @@ AXOLVE_AI_BISEO/
 │  ├─ config.js              API 주소 (로컬 기본값)
 │  ├─ build-config.js        Vercel 빌드 때 API_BASE_URL → config.js
 │  └─ vercel.json
-└─ screenshots/              (7단계)
+└─ screenshots/              제출 스크린샷
 ```
 
 **라우터와 서비스를 나눈 기준**: 라우터는 URL·상태 코드·오류 응답만 맡고, 계산·저장·GPT 호출은 서비스가 맡는다. 그래서 요약 계산(`services/summary.py`)을 API와 분석 스크립트(`tools/analyze.py`)가 함께 쓴다.
@@ -168,5 +173,22 @@ Firebase 키를 비워 두면 `backend/.localdb/`에 JSON 파일로 저장해서
 | 대화 기록 | 목록, 불러오기, 삭제, 새 대화 |
 | 기타 | 다크 모드, 모바일 탭 화면, 무료 서버 깨우는 중 안내(경과 초 표시) |
 
-## 10. 스크린샷
-<!-- 7단계: 채팅 화면 / 데이터 관리 화면 / 대화 기록 화면 -->
+## 10. 스크린샷 (배포 화면)
+
+**① 데이터 요약이 보이는 채팅 화면** — 위쪽 요약 칩(기간·기록·총 작업·추세·남은 할 일·멈춘 프로젝트), 질문 + 답변, 답변 아래 근거(기간·건수·추세·모델), 오른쪽 요약 그래프
+![채팅 화면](screenshots/01_chat_summary.png)
+
+**② 데이터 관리 화면 (추가)** — 오늘 한 일을 추가하면 목록 맨 위에 강조되어 나타나고 "기록을 추가했어요" 알림, 요약 숫자(110건·111.1시간)도 바로 바뀐다
+![데이터 관리](screenshots/02_data_add.png)
+
+**③ 대화 기록 화면 (불러오기)** — 왼쪽 목록에서 이전 대화를 누르면 메시지가 다시 표시되고 "대화를 불러왔어요" 알림
+![대화 기록](screenshots/03_history_load.png)
+
+<details>
+<summary>추가 화면: Swagger · 다크 모드 · 모바일</summary>
+
+![Swagger](screenshots/04_swagger.png)
+![다크 모드](screenshots/05_dark.png)
+<img src="screenshots/06_mobile.png" width="320" alt="모바일">
+
+</details>

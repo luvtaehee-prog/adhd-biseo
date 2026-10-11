@@ -1,0 +1,263 @@
+{
+ "period": "2026-02-09 ~ 2026-09-27",
+ "count": 109,
+ "active_days": 77,
+ "metrics": {
+  "total_hours": 109.1,
+  "average_min": 60,
+  "median_min": 30,
+  "max_min": 260,
+  "max_record": "2026-09-26 학부모 공유자료 Vol.01~12 제작 (워크북 양식 통일, 4:5 PNG+PDF)",
+  "min_min": 10,
+  "average_min_per_active_day": 85,
+  "best_day": "2026-09-26 (605분)"
+ },
+ "trend": {
+  "label": "감소",
+  "recent_min": 0,
+  "previous_min": 2035,
+  "change_pct": -100
+ },
+ "by_category_hours": {
+  "AXOLVE": 79.7,
+  "교육콘텐츠": 14.5,
+  "개인": 8.8,
+  "학습": 6.2
+ },
+ "by_month_hours": {
+  "2026-02": 4.0,
+  "2026-03": 7.5,
+  "2026-04": 3.0,
+  "2026-05": 4.0,
+  "2026-06": 2.5,
+  "2026-07": 6.0,
+  "2026-08": 32.0,
+  "2026-09": 50.1
+ },
+ "by_project": [
+  {
+   "project": "기출정리",
+   "hours": 23.8,
+   "records": 34,
+   "last_date": "2026-09-02",
+   "last_work": "수능 기출 주제별 분류, 고난도 모의고사 생성기 폴더 정리",
+   "days_since": 39,
+   "stale": true
+  },
+  {
+   "project": "WRITO 콘텐츠",
+   "hours": 14.5,
+   "records": 7,
+   "last_date": "2026-08-25",
+   "last_work": "라이팅 샘플 모음 보완",
+   "days_since": 47,
+   "stale": true
+  },
+  {
+   "project": "교재·워크북",
+   "hours": 10.6,
+   "records": 10,
+   "last_date": "2026-09-15",
+   "last_work": "원서 Out of My Dreams 퀴즈 샘플 (주어-동사 수일치)",
+   "days_since": 26,
+   "stale": false
+  },
+  {
+   "project": "WRITO 진단엔진",
+   "hours": 9.7,
+   "records": 5,
+   "last_date": "2026-09-24",
+   "last_work": "진단엔진 보완 4가지 구현, 기존 테스트 117개 통과 확인",
+   "days_since": 17,
+   "stale": false
+  },
+  {
+   "project": "자녀 학습 지원",
+   "hours": 7.7,
+   "records": 10,
+   "last_date": "2026-09-25",
+   "last_work": "AI 학습 포트폴리오 사이트 구성",
+   "days_since": 16,
+   "stale": false
+  },
+  {
+   "project": "웹사이트",
+   "hours": 6.8,
+   "records": 4,
+   "last_date": "2026-09-22",
+   "last_work": "홈페이지 개편: 훈련 과정 강조, 가독성·브랜드 일관성",
+   "days_since": 19,
+   "stale": false
+  },
+  {
+   "project": "코디세이",
+   "hours": 6.2,
+   "records": 7,
+   "last_date": "2026-09-27",
+   "last_work": "AI 비서 미션 방향 설정, 업무 데이터 수집",
+   "days_since": 14,
+   "stale": false
+  },
+  {
+   "project": "사업계획·IR",
+   "hours": 6.0,
+   "records": 7,
+   "last_date": "2026-09-24",
+   "last_work": "숫자 기준표·사업계획서 수정",
+   "days_since": 17,
+   "stale": false
+  },
+  {
+   "project": "인스타 자료",
+   "hours": 4.3,
+   "records": 1,
+   "last_date": "2026-09-26",
+   "last_work": "학부모 공유자료 Vol.01~12 제작 (워크북 양식 통일, 4:5 PNG+PDF)",
+   "days_since": 15,
+   "stale": false
+  },
+  {
+   "project": "어법 앱(ONLY12)",
+   "hours": 3.9,
+   "records": 2,
+   "last_date": "2026-09-26",
+   "last_work": "중학교 내신 어법 끝장 앱: 1분 루틴, 보상, 교과서별 문법 목차",
+   "days_since": 15,
+   "stale": false
+  },
+  {
+   "project": "인스타 릴스",
+   "hours": 3.0,
+   "records": 2,
+   "last_date": "2026-09-27",
+   "last_work": "릴스 캐릭터 '뚜아맘' 제작 (표정 6·입 모양 4), 얼굴 추적 도구",
+   "days_since": 14,
+   "stale": false
+  },
+  {
+   "project": "기획문서",
+   "hours": 2.1,
+   "records": 4,
+   "last_date": "2026-09-25",
+   "last_work": "라이토 작문기술 정리본(W·R·I·T·O 5원칙, 운영 규칙 6, 학습 포인트 14) PDF",
+   "days_since": 16,
+   "stale": false
+  },
+  {
+   "project": "운영",
+   "hours": 2.0,
+   "records": 4,
+   "last_date": "2026-08-11",
+   "last_work": "수강료 자동 완성 안내문 제작",
+   "days_since": 61,
+   "stale": true
+  },
+  {
+   "project": "MASTER BOARD",
+   "hours": 2.0,
+   "records": 1,
+   "last_date": "2026-08-24",
+   "last_work": "MASTER BOARD 전체 현황 보고서 작성 (NOW/NEXT/WAITING 정리)",
+   "days_since": 48,
+   "stale": true
+  },
+  {
+   "project": "GRAMMO",
+   "hours": 2.0,
+   "records": 2,
+   "last_date": "2026-08-31",
+   "last_work": "grammo 문법 교재 리스타일 데모 제작",
+   "days_since": 41,
+   "stale": true
+  },
+  {
+   "project": "VOCATO(어휘)",
+   "hours": 1.5,
+   "records": 2,
+   "last_date": "2026-07-14",
+   "last_work": "AXISOLVE VOCA 연습장·Word Master 하이스트 UNIT 1 제작",
+   "days_since": 89,
+   "stale": true
+  },
+  {
+   "project": "앱 개발",
+   "hours": 1.2,
+   "records": 2,
+   "last_date": "2026-09-15",
+   "last_work": "앱 서버 모듈(router·service) 구성, v1.0.0 보고서",
+   "days_since": 26,
+   "stale": false
+  },
+  {
+   "project": "브랜드·로고",
+   "hours": 0.8,
+   "records": 2,
+   "last_date": "2026-09-26",
+   "last_work": "CHAPTER LAB 광고판 모션 영상 시안",
+   "days_since": 15,
+   "stale": false
+  },
+  {
+   "project": "생활",
+   "hours": 0.6,
+   "records": 2,
+   "last_date": "2026-09-24",
+   "last_work": "스키 장비 최저가 구매 계획",
+   "days_since": 17,
+   "stale": false
+  },
+  {
+   "project": "개인 자동화",
+   "hours": 0.5,
+   "records": 1,
+   "last_date": "2026-09-01",
+   "last_work": "축구 뉴스 카카오 알림 수신 오류 해결",
+   "days_since": 40,
+   "stale": true
+  }
+ ],
+ "recent": [
+  "2026-09-25 [기획문서] 라이토 작문기술 정리본(W·R·I·T·O 5원칙, 운영 규칙 6, 학습 포인트 14) PDF (60분)",
+  "2026-09-25 [어법 앱(ONLY12)] 어법상 틀린 문장 고르기 고난도 문항·앱 구조 설계 (35분)",
+  "2026-09-25 [코디세이] 코디세이 과제 목록 수집·정리 (25분)",
+  "2026-09-25 [자녀 학습 지원] AI 학습 포트폴리오 사이트 구성 (25분)",
+  "2026-09-26 [인스타 자료] 학부모 공유자료 Vol.01~12 제작 (워크북 양식 통일, 4:5 PNG+PDF) (260분)",
+  "2026-09-26 [어법 앱(ONLY12)] 중학교 내신 어법 끝장 앱: 1분 루틴, 보상, 교과서별 문법 목차 (200분)",
+  "2026-09-26 [인스타 릴스] '엄마의 발견' 릴스 10편 시나리오, 1~3화 제작, 30~45초 확정 (130분)",
+  "2026-09-26 [브랜드·로고] CHAPTER LAB 광고판 모션 영상 시안 (15분)",
+  "2026-09-27 [코디세이] AI 비서 미션 방향 설정, 업무 데이터 수집 (60분)",
+  "2026-09-27 [인스타 릴스] 릴스 캐릭터 '뚜아맘' 제작 (표정 6·입 모양 4), 얼굴 추적 도구 (50분)"
+ ],
+ "open_tasks": {
+  "count": 22,
+  "now": [
+   "[WRITO 진단엔진] Risk → Training 연결 (진단 결과를 훈련 모드로 변환)",
+   "[GRAMMO] WRITO 문법 8개 스킬 ↔ GRAMMO 규칙 ID 연결표",
+   "[사업계획·IR] 사업계획서 계속 업데이트",
+   "[사업계획·IR] 시장조사: 레벨테스트 준비에 부모가 실제로 쓰는 돈 조사",
+   "[MASTER BOARD] AXISOLVE → AXOLVE 이름 바뀐 문서 정리",
+   "[MASTER BOARD] 8/24 이후 작업(웹·로고·인스타) 반영해 새로 쓰기",
+   "[웹사이트] diagnosis.html의 'WRITO 3축' 표기를 6개 진단축으로 통일",
+   "[인스타 릴스] '엄마의 발견' 4~10화 제작",
+   "[인스타 릴스] 실제 사람 영상 + 뚜아맘 얼굴로 촬영 방식 확정",
+   "[코디세이] AI 비서 미션: 백엔드·프론트·README 완성"
+  ],
+  "next": [
+   "[WRITO 진단엔진] 문장 짧은 교정 훈련(Sentence Micro Drill) 설계",
+   "[WRITO 진단엔진] Writing Component 훈련 모드",
+   "[WRITO 진단엔진] Next Best Action v0.1 (학생에게 먼저 시킬 한 가지)",
+   "[WRITO 콘텐츠] 165개 주제에 훈련 태그 달기",
+   "[사업계획·IR] 무료 → 유료 전환 구조",
+   "[인스타 자료] 팔로우 → DM 자동 발송 설정",
+   "[어법 앱(ONLY12)] 다음 단원: 가주어 it → 간접의문문 → 현재완료·수동태·if",
+   "[브랜드·로고] 로고 최종 확정 후 전체 자료에 반영"
+  ],
+  "waiting": [
+   "[WRITO 진단엔진] 실제 학생 글로 사람 채점 vs 엔진 비교 검증",
+   "[WRITO 콘텐츠] 워크시트 전체 검수",
+   "[VOCATO(어휘)] VOCATO 기존 자료 모으고 제품화",
+   "[GRAMMO] GRAMMO 독립 웹앱"
+  ]
+ },
+ "as_of": "2026-10-11"
+}

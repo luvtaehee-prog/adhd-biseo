@@ -1,0 +1,14 @@
+# 키·환경 변수 — 절대 올리지 않는다
+.env
+*.env
+!.env.example
+*serviceAccount*.json
+*-firebase-adminsdk-*.json
+
+# 로컬 개발용
+.venv/
+__pycache__/
+.pytest_cache/
+backend/.localdb/
+node_modules/
+.vercel/

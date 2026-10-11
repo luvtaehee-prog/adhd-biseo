@@ -1,0 +1,983 @@
+[
+ {
+  "id": "w001",
+  "date": "2026-02-09",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 01강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w002",
+  "date": "2026-02-12",
+  "value": 60,
+  "memo": "2027 EBS 수능특강 영어 상세분석 02·03·04강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w003",
+  "date": "2026-02-20",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 06강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w004",
+  "date": "2026-02-22",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 05강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w005",
+  "date": "2026-02-24",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 08강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w006",
+  "date": "2026-02-25",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 09강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w007",
+  "date": "2026-02-26",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 10강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w008",
+  "date": "2026-03-07",
+  "value": 60,
+  "memo": "2027 EBS 수능특강 영어 상세분석 03·05·13·16강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w009",
+  "date": "2026-03-08",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 02강 보완",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w010",
+  "date": "2026-03-09",
+  "value": 60,
+  "memo": "2027 EBS 수능특강 영어 상세분석 14·16·17강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w011",
+  "date": "2026-03-12",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 18강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w012",
+  "date": "2026-03-13",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 19강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w013",
+  "date": "2026-03-15",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 20강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w014",
+  "date": "2026-03-16",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 21강 + Test01",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w015",
+  "date": "2026-03-18",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 23강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w016",
+  "date": "2026-03-20",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 07·24강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w017",
+  "date": "2026-03-25",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 26강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w018",
+  "date": "2026-03-26",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 25·27강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w019",
+  "date": "2026-03-27",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 Test03",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w020",
+  "date": "2026-03-31",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 28·29강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w021",
+  "date": "2026-04-01",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 30강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w022",
+  "date": "2026-04-08",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 12강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w023",
+  "date": "2026-04-11",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 22강",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w024",
+  "date": "2026-04-12",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 11강 2번 지문 3·7번 문장 어법 오류 수정",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w025",
+  "date": "2026-04-15",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 15강 2번 지문 6번 문장 어법 오류 수정",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w026",
+  "date": "2026-04-22",
+  "value": 30,
+  "memo": "2027 EBS 수능특강 영어 상세분석 Test02",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w027",
+  "date": "2026-05-11",
+  "value": 60,
+  "memo": "2024 고3 빈칸추론 28문제 분석지 제작",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w028",
+  "date": "2026-05-12",
+  "value": 60,
+  "memo": "2025 고2 빈칸추론 16문제 분석지 제작",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w029",
+  "date": "2026-05-13",
+  "value": 60,
+  "memo": "고2 학력평가 유형별 모음(빈칸·어법·어휘) 정리",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w030",
+  "date": "2026-05-17",
+  "value": 30,
+  "memo": "심화영어 업무량 체크표 작성",
+  "project": "운영",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w031",
+  "date": "2026-05-22",
+  "value": 30,
+  "memo": "심화영어 수강료 안내 페이지 작성",
+  "project": "운영",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w032",
+  "date": "2026-06-10",
+  "value": 30,
+  "memo": "레벨 안내 카드뉴스 제작",
+  "project": "운영",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w033",
+  "date": "2026-06-10",
+  "value": 30,
+  "memo": "엑솔브 사업계획서 자료 정리 시작",
+  "project": "사업계획·IR",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w034",
+  "date": "2026-06-12",
+  "value": 30,
+  "memo": "중2 수학·역사 시험 대비 자료 수집",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "추정"
+ },
+ {
+  "id": "w035",
+  "date": "2026-06-16",
+  "value": 30,
+  "memo": "중2 과학 시험 대비 자료 수집",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "추정"
+ },
+ {
+  "id": "w036",
+  "date": "2026-06-24",
+  "value": 30,
+  "memo": "능률보카 어원편 중등 어휘 테스트 자료 정리",
+  "project": "VOCATO(어휘)",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w037",
+  "date": "2026-07-14",
+  "value": 60,
+  "memo": "AXISOLVE VOCA 연습장·Word Master 하이스트 UNIT 1 제작",
+  "project": "VOCATO(어휘)",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w038",
+  "date": "2026-07-24",
+  "value": 60,
+  "memo": "주간 모의고사(WEEKLY TEST) 자동 생성 시작",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w039",
+  "date": "2026-07-25",
+  "value": 30,
+  "memo": "수능 모의고사 자동화 폴더 구성",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w040",
+  "date": "2026-07-26",
+  "value": 180,
+  "memo": "주간 모의고사 W01 문제지·해설지 생성, 배포 패키지 작성",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w041",
+  "date": "2026-07-30",
+  "value": 30,
+  "memo": "중2 과학·역사 자료 추가 수집",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "추정"
+ },
+ {
+  "id": "w042",
+  "date": "2026-08-04",
+  "value": 60,
+  "memo": "지문 변형 문제 4종 생성기·변형 서버 제작",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w043",
+  "date": "2026-08-11",
+  "value": 30,
+  "memo": "수강료 자동 완성 안내문 제작",
+  "project": "운영",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w044",
+  "date": "2026-08-13",
+  "value": 60,
+  "memo": "대치 학원별 라이팅 주제 조사, 라이팅 분석 앱 시안",
+  "project": "WRITO 콘텐츠",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w045",
+  "date": "2026-08-15",
+  "value": 180,
+  "memo": "라이팅 샘플·워크시트 대량 제작 (Writing 001~)",
+  "project": "WRITO 콘텐츠",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w046",
+  "date": "2026-08-16",
+  "value": 30,
+  "memo": "라이팅 워크시트 041~060 수정",
+  "project": "WRITO 콘텐츠",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w047",
+  "date": "2026-08-17",
+  "value": 180,
+  "memo": "라이팅 워크시트 081~ 제작",
+  "project": "WRITO 콘텐츠",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w048",
+  "date": "2026-08-18",
+  "value": 120,
+  "memo": "초등 영어 주제 165개 학원별 재배치",
+  "project": "WRITO 콘텐츠",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w049",
+  "date": "2026-08-21",
+  "value": 180,
+  "memo": "라이팅 샘플 답안 학년별 정리",
+  "project": "WRITO 콘텐츠",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w050",
+  "date": "2026-08-22",
+  "value": 120,
+  "memo": "진단 사양서·Cold Writing 평가 기준·Writing Components 규칙 작성",
+  "project": "WRITO 진단엔진",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w051",
+  "date": "2026-08-23",
+  "value": 60,
+  "memo": "이노베이션 사업지원 자료 준비",
+  "project": "사업계획·IR",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w052",
+  "date": "2026-08-24",
+  "value": 120,
+  "memo": "MASTER BOARD 전체 현황 보고서 작성 (NOW/NEXT/WAITING 정리)",
+  "project": "MASTER BOARD",
+  "category": "AXOLVE",
+  "source": "문서"
+ },
+ {
+  "id": "w053",
+  "date": "2026-08-24",
+  "value": 120,
+  "memo": "Phase 1 진단 MVP 규칙 v1.0 확정, 가상 글 12개 Dry Run 검토",
+  "project": "WRITO 진단엔진",
+  "category": "AXOLVE",
+  "source": "문서"
+ },
+ {
+  "id": "w054",
+  "date": "2026-08-24",
+  "value": 60,
+  "memo": "GRAMMO 규칙 리스트·콘텐츠 리스트 정리, 프로젝트 상태 복원",
+  "project": "GRAMMO",
+  "category": "AXOLVE",
+  "source": "문서"
+ },
+ {
+  "id": "w055",
+  "date": "2026-08-24",
+  "value": 60,
+  "memo": "시장 규모 리포트, Killing Feature 가설 정리",
+  "project": "사업계획·IR",
+  "category": "AXOLVE",
+  "source": "문서"
+ },
+ {
+  "id": "w056",
+  "date": "2026-08-25",
+  "value": 120,
+  "memo": "라이팅 샘플 모음 보완",
+  "project": "WRITO 콘텐츠",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w057",
+  "date": "2026-08-26",
+  "value": 60,
+  "memo": "중2 동아(윤정미) 5·6과 N제·최다빈출·최다오답 자료 정리",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "추정"
+ },
+ {
+  "id": "w058",
+  "date": "2026-08-27",
+  "value": 30,
+  "memo": "중2 동아 5과 내용정리·Grammar Build Up 정리",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "추정"
+ },
+ {
+  "id": "w059",
+  "date": "2026-08-30",
+  "value": 180,
+  "memo": "대수 워크북 빌드 시스템 제작",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "추정"
+ },
+ {
+  "id": "w060",
+  "date": "2026-08-30",
+  "value": 30,
+  "memo": "중2 과학 전기와 자기 자료 수집",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "추정"
+ },
+ {
+  "id": "w061",
+  "date": "2026-08-31",
+  "value": 60,
+  "memo": "코디세이 네이티브 1기 2라운드 신청서 작성",
+  "project": "코디세이",
+  "category": "학습",
+  "source": "추정"
+ },
+ {
+  "id": "w062",
+  "date": "2026-08-31",
+  "value": 60,
+  "memo": "grammo 문법 교재 리스타일 데모 제작",
+  "project": "GRAMMO",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w063",
+  "date": "2026-09-01",
+  "value": 50,
+  "memo": "중2-2 삼각형·사각형 성질 개념분석노트 학생용 PDF",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w064",
+  "date": "2026-09-01",
+  "value": 30,
+  "memo": "축구 뉴스 카카오 알림 수신 오류 해결",
+  "project": "개인 자동화",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w065",
+  "date": "2026-09-02",
+  "value": 50,
+  "memo": "수능 기출 주제별 분류, 고난도 모의고사 생성기 폴더 정리",
+  "project": "기출정리",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w066",
+  "date": "2026-09-02",
+  "value": 35,
+  "memo": "중2 수학 오답 원인 분석 (내접원 보조선 문항)",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w067",
+  "date": "2026-09-02",
+  "value": 25,
+  "memo": "AI 비서 미션: 백엔드 환경·키 준비",
+  "project": "코디세이",
+  "category": "학습",
+  "source": "측정"
+ },
+ {
+  "id": "w068",
+  "date": "2026-09-03",
+  "value": 30,
+  "memo": "중2-2 사각형 성질 오답 분석지",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "추정"
+ },
+ {
+  "id": "w069",
+  "date": "2026-09-03",
+  "value": 10,
+  "memo": "AI 비서 미션: GitHub 저장소 만들고 커밋",
+  "project": "코디세이",
+  "category": "학습",
+  "source": "측정"
+ },
+ {
+  "id": "w070",
+  "date": "2026-09-03",
+  "value": 10,
+  "memo": "도덕 수행평가용 환경의 날 기사 조사",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w071",
+  "date": "2026-09-04",
+  "value": 120,
+  "memo": "진단 체계 설계, 규격서 §1~§12 모듈 구현(spaCy)",
+  "project": "WRITO 진단엔진",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w072",
+  "date": "2026-09-05",
+  "value": 180,
+  "memo": "구조·문장·문법 3축 검출 예시, 기술보고서 작성",
+  "project": "WRITO 진단엔진",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w073",
+  "date": "2026-09-05",
+  "value": 30,
+  "memo": "사업계획서 자료 업데이트",
+  "project": "사업계획·IR",
+  "category": "AXOLVE",
+  "source": "추정"
+ },
+ {
+  "id": "w074",
+  "date": "2026-09-06",
+  "value": 25,
+  "memo": "모임 식사 메뉴 투표 게임 기획",
+  "project": "생활",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w075",
+  "date": "2026-09-09",
+  "value": 15,
+  "memo": "기능명세서 필요 항목 정리, 기술스택 제안",
+  "project": "기획문서",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w076",
+  "date": "2026-09-12",
+  "value": 125,
+  "memo": "에이급 수학 1-1 워크북 (4단원 × Step A·B·C 12개 파일)",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w077",
+  "date": "2026-09-12",
+  "value": 60,
+  "memo": "작품분석 백지테스트(50%·100% 빈칸), 현재분사·동명사 개념서",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w078",
+  "date": "2026-09-13",
+  "value": 175,
+  "memo": "TOEIC 문제은행 팀 프로젝트: 기출 유형 분석 보고서",
+  "project": "코디세이",
+  "category": "학습",
+  "source": "측정"
+ },
+ {
+  "id": "w079",
+  "date": "2026-09-14",
+  "value": 135,
+  "memo": "모두의창업 지원서 재작성, IR 덱 재구성, 90초 소개 영상",
+  "project": "사업계획·IR",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w080",
+  "date": "2026-09-14",
+  "value": 20,
+  "memo": "앱 핵심 DB 스키마(PostgreSQL) 작성",
+  "project": "앱 개발",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w081",
+  "date": "2026-09-14",
+  "value": 15,
+  "memo": "요금 방식(토큰·구독 2트랙) 증빙 페이지 정리",
+  "project": "웹사이트",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w082",
+  "date": "2026-09-15",
+  "value": 50,
+  "memo": "앱 서버 모듈(router·service) 구성, v1.0.0 보고서",
+  "project": "앱 개발",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w083",
+  "date": "2026-09-15",
+  "value": 40,
+  "memo": "중2 도형 판정노트 개념서·백지테스트",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w084",
+  "date": "2026-09-15",
+  "value": 30,
+  "memo": "소개 영상 심사 피드백 반영",
+  "project": "사업계획·IR",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w085",
+  "date": "2026-09-15",
+  "value": 25,
+  "memo": "원서 Out of My Dreams 퀴즈 샘플 (주어-동사 수일치)",
+  "project": "교재·워크북",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w086",
+  "date": "2026-09-15",
+  "value": 10,
+  "memo": "요금 플랜 표기 수정 후 배포",
+  "project": "웹사이트",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w087",
+  "date": "2026-09-16",
+  "value": 40,
+  "memo": "유저스토리·기능명세서·기술스택·창업사업계획서, 모두의창업 PPT",
+  "project": "기획문서",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w088",
+  "date": "2026-09-17",
+  "value": 10,
+  "memo": "MVP 디자인 시스템 문서 기획 (UX/UI)",
+  "project": "기획문서",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w089",
+  "date": "2026-09-19",
+  "value": 10,
+  "memo": "과학 영양소·소화 파트 퀴즈",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w090",
+  "date": "2026-09-20",
+  "value": 185,
+  "memo": "퀴즈 앱 채점·오답 유형 기능, 한국 문화유산 해설 앱",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w091",
+  "date": "2026-09-21",
+  "value": 220,
+  "memo": "소개 사이트 제작(초등 학부모 대상), 에세이 생성·구매 통합 홈페이지",
+  "project": "웹사이트",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w092",
+  "date": "2026-09-21",
+  "value": 50,
+  "memo": "과학 순환계 학습 자료 반말 튜터 말투로 수정",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w093",
+  "date": "2026-09-22",
+  "value": 165,
+  "memo": "홈페이지 개편: 훈련 과정 강조, 가독성·브랜드 일관성",
+  "project": "웹사이트",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w094",
+  "date": "2026-09-22",
+  "value": 60,
+  "memo": "자기소개서 문장 점검",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w095",
+  "date": "2026-09-22",
+  "value": 30,
+  "memo": "매(팔콘) 로고 v1(빨강)·v2(와인+골드) 제작",
+  "project": "브랜드·로고",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w096",
+  "date": "2026-09-22",
+  "value": 15,
+  "memo": "에듀테크 앱 과제 기획서 초안, 멘토 요청 사항 정리",
+  "project": "코디세이",
+  "category": "학습",
+  "source": "측정"
+ },
+ {
+  "id": "w097",
+  "date": "2026-09-24",
+  "value": 40,
+  "memo": "진단엔진 보완 4가지 구현, 기존 테스트 117개 통과 확인",
+  "project": "WRITO 진단엔진",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w098",
+  "date": "2026-09-24",
+  "value": 15,
+  "memo": "숫자 기준표·사업계획서 수정",
+  "project": "사업계획·IR",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w099",
+  "date": "2026-09-24",
+  "value": 10,
+  "memo": "스키 장비 최저가 구매 계획",
+  "project": "생활",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w100",
+  "date": "2026-09-25",
+  "value": 60,
+  "memo": "라이토 작문기술 정리본(W·R·I·T·O 5원칙, 운영 규칙 6, 학습 포인트 14) PDF",
+  "project": "기획문서",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w101",
+  "date": "2026-09-25",
+  "value": 35,
+  "memo": "어법상 틀린 문장 고르기 고난도 문항·앱 구조 설계",
+  "project": "어법 앱(ONLY12)",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w102",
+  "date": "2026-09-25",
+  "value": 25,
+  "memo": "코디세이 과제 목록 수집·정리",
+  "project": "코디세이",
+  "category": "학습",
+  "source": "측정"
+ },
+ {
+  "id": "w103",
+  "date": "2026-09-25",
+  "value": 25,
+  "memo": "AI 학습 포트폴리오 사이트 구성",
+  "project": "자녀 학습 지원",
+  "category": "개인",
+  "source": "측정"
+ },
+ {
+  "id": "w104",
+  "date": "2026-09-26",
+  "value": 260,
+  "memo": "학부모 공유자료 Vol.01~12 제작 (워크북 양식 통일, 4:5 PNG+PDF)",
+  "project": "인스타 자료",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w105",
+  "date": "2026-09-26",
+  "value": 200,
+  "memo": "중학교 내신 어법 끝장 앱: 1분 루틴, 보상, 교과서별 문법 목차",
+  "project": "어법 앱(ONLY12)",
+  "category": "교육콘텐츠",
+  "source": "측정"
+ },
+ {
+  "id": "w106",
+  "date": "2026-09-26",
+  "value": 130,
+  "memo": "'엄마의 발견' 릴스 10편 시나리오, 1~3화 제작, 30~45초 확정",
+  "project": "인스타 릴스",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w107",
+  "date": "2026-09-26",
+  "value": 15,
+  "memo": "CHAPTER LAB 광고판 모션 영상 시안",
+  "project": "브랜드·로고",
+  "category": "AXOLVE",
+  "source": "측정"
+ },
+ {
+  "id": "w108",
+  "date": "2026-09-27",
+  "value": 60,
+  "memo": "AI 비서 미션 방향 설정, 업무 데이터 수집",
+  "project": "코디세이",
+  "category": "학습",
+  "source": "추정"
+ },
+ {
+  "id": "w109",
+  "date": "2026-09-27",
+  "value": 50,
+  "memo": "릴스 캐릭터 '뚜아맘' 제작 (표정 6·입 모양 4), 얼굴 추적 도구",
+  "project": "인스타 릴스",
+  "category": "AXOLVE",
+  "source": "측정"
+ }
+]

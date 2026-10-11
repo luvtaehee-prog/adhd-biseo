@@ -1,0 +1,23 @@
+﻿id,project,task,status,as_of,source
+t01,WRITO 진단엔진,Risk → Training 연결 (진단 결과를 훈련 모드로 변환),NOW,2026-08-24,MASTER BOARD
+t02,GRAMMO,WRITO 문법 8개 스킬 ↔ GRAMMO 규칙 ID 연결표,NOW,2026-08-24,MASTER BOARD
+t03,사업계획·IR,사업계획서 계속 업데이트,NOW,2026-08-24,MASTER BOARD
+t04,사업계획·IR,시장조사: 레벨테스트 준비에 부모가 실제로 쓰는 돈 조사,NOW,2026-08-24,MASTER BOARD
+t05,WRITO 진단엔진,문장 짧은 교정 훈련(Sentence Micro Drill) 설계,NEXT,2026-08-24,MASTER BOARD
+t06,WRITO 진단엔진,Writing Component 훈련 모드,NEXT,2026-08-24,MASTER BOARD
+t07,WRITO 진단엔진,Next Best Action v0.1 (학생에게 먼저 시킬 한 가지),NEXT,2026-08-24,MASTER BOARD
+t08,WRITO 콘텐츠,165개 주제에 훈련 태그 달기,NEXT,2026-08-24,MASTER BOARD
+t09,사업계획·IR,무료 → 유료 전환 구조,NEXT,2026-08-24,MASTER BOARD
+t10,WRITO 진단엔진,실제 학생 글로 사람 채점 vs 엔진 비교 검증,WAITING,2026-08-24,MASTER BOARD
+t11,WRITO 콘텐츠,워크시트 전체 검수,WAITING,2026-08-24,MASTER BOARD
+t12,VOCATO(어휘),VOCATO 기존 자료 모으고 제품화,WAITING,2026-08-24,MASTER BOARD
+t13,GRAMMO,GRAMMO 독립 웹앱,WAITING,2026-08-24,MASTER BOARD
+t14,MASTER BOARD,AXISOLVE → AXOLVE 이름 바뀐 문서 정리,NOW,2026-08-24,MASTER BOARD
+t15,MASTER BOARD,8/24 이후 작업(웹·로고·인스타) 반영해 새로 쓰기,NOW,2026-09-27,업무일지
+t16,웹사이트,diagnosis.html의 'WRITO 3축' 표기를 6개 진단축으로 통일,NOW,2026-09-26,업무일지
+t17,인스타 릴스,'엄마의 발견' 4~10화 제작,NOW,2026-09-27,업무일지
+t18,인스타 릴스,실제 사람 영상 + 뚜아맘 얼굴로 촬영 방식 확정,NOW,2026-09-27,업무일지
+t19,인스타 자료,팔로우 → DM 자동 발송 설정,NEXT,2026-09-26,업무일지
+t20,어법 앱(ONLY12),다음 단원: 가주어 it → 간접의문문 → 현재완료·수동태·if,NEXT,2026-09-26,업무일지
+t21,브랜드·로고,로고 최종 확정 후 전체 자료에 반영,NEXT,2026-09-25,업무일지
+t22,코디세이,AI 비서 미션: 백엔드·프론트·README 완성,NOW,2026-09-27,업무일지

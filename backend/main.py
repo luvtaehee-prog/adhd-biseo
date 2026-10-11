@@ -2,6 +2,8 @@
 
 로컬 실행:  uvicorn main:app --reload   →  http://127.0.0.1:8000/docs
 """
+import os
+
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
@@ -41,4 +43,13 @@ def root():
 
 @app.get("/health", tags=["상태"], summary="헬스체크 (콜드스타트 깨우기용)")
 def health():
-    return {"status": "ok", "store": get_store().kind, "ai": bool(config.OPENAI_API_KEY)}
+    k = config.OPENAI_API_KEY
+    return {
+        "status": "ok",
+        "store": get_store().kind,
+        "ai": bool(k),
+        "version": os.getenv("RENDER_GIT_COMMIT", "local")[:7],
+        # 키 값은 내보내지 않고 형식만 점검한다
+        "ai_key_format": {"length": len(k), "prefix_ok": k.startswith("sk-"),
+                          "ascii_only": k.isascii(), "inner_space": any(c.isspace() for c in k)},
+    }

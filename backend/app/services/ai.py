@@ -44,5 +44,8 @@ def ask(summary: dict, history: list[dict], message: str) -> str:
             temperature=0.4,
         )
     except OpenAIError as e:
-        raise AIUnavailable(f"GPT 호출 실패: {e.__class__.__name__}") from e
+        # 원인 예외는 이름만 붙인다 (메시지에 키가 들어 있을 수 있음)
+        cause = e.__cause__ or e.__context__
+        detail = e.__class__.__name__ + (f" ← {cause.__class__.__name__}" if cause else "")
+        raise AIUnavailable(f"GPT 호출 실패: {detail}") from e
     return (res.choices[0].message.content or "").strip()
